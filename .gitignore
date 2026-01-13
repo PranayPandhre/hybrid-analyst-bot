@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Secrets
+.env
+
+# Vector database
+chroma_store/
+
+# OS
+.DS_Store

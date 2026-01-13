@@ -1,0 +1,28 @@
+# UI
+streamlit
+
+# Database
+duckdb
+pandas
+
+# LLM + routing
+openai
+
+# RAG pipeline
+langchain
+langchain-community
+langchain-text-splitters
+
+# Embeddings (local, free)
+sentence-transformers
+langchain-huggingface
+
+# Vector database
+chromadb
+
+# PDF loading
+pypdf
+
+python-dotenv
+
+tabulate
