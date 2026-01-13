@@ -159,7 +159,7 @@ The following assumptions were made during implementation:
 
 ### Demo Screenshot
 
-![Hybrid Analyst Bot Demo](assets/demo.png)
+![Hybrid Analyst Bot Demo](assets/demo1.png)
 
 ## 5. Repository Structure
 
@@ -188,5 +188,6 @@ The following assumptions were made during implementation:
 └── test_.py
 
 ```
+
 
 
