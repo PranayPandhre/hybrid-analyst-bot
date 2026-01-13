@@ -1,6 +1,6 @@
-# HYBRID-ANALYST-BOT
+# Hybrid Financial Analyst Chatbot
 
-A hybrid analyst assistant that routes questions to:
+A hybrid financial analyst chatbot that routes questions to:
 - **DuckDB (SQL)** for structured financial metrics from `data/financial_data.csv`
 - **RAG over PDFs (ChromaDB)** for qualitative questions from company documents in `docs/`
 
@@ -188,4 +188,5 @@ The following assumptions were made during implementation:
 └── test_.py
 
 ```
+
 
